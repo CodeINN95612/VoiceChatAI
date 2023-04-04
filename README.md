@@ -26,4 +26,4 @@ Totally based on [this tutorial](https://levelup.gitconnected.com/i-created-a-vo
 > **Note**  
 > Currently it works in Spanish, change every instance of `es` as a language in the code to `en` for English
 
-1. Start recording with the `speak` button. A green circle will appear when you can start talking.
+3. Start recording with the `speak` button. A green circle will appear when you can start talking.
