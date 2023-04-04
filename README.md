@@ -23,5 +23,7 @@ Totally based on [this tutorial](https://levelup.gitconnected.com/i-created-a-vo
 ```sh
     python -m streamlit run main.py
 ```
+> **Note**  
+> Currently it works in Spanish, change every instance of `es` as a language in the code to `en` for English
 
 1. Start recording with the `speak` button. A green circle will appear when you can start talking.
