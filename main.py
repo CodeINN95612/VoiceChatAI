@@ -33,7 +33,7 @@ sound = BytesIO()
 
 placeholder = st.container()
 
-placeholder.title("Yeyu's Voice ChatBot")
+placeholder.title("Voice ChatBot")
 stt_button = Button(label='SPEAK', button_type='success',
                     margin=(5, 5, 5, 5), width=200)
 
