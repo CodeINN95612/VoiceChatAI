@@ -1,0 +1,5 @@
+openai
+streamlit
+streamlit-bokeh-events
+gTTS
+bokeh==2.4.2
