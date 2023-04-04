@@ -3,6 +3,8 @@ AI voice chat using chat gpt
 
 Totally based on [this tutorial](https://levelup.gitconnected.com/i-created-a-voice-chatbot-powered-by-chatgpt-api-here-is-how-6302d555b949)
 
+Does not work on Opera.
+
 ## Executing
 
 1. Install requirements with:
